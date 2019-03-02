@@ -48,3 +48,11 @@ public int checkBatteryLevel(){
   }
   
 }
+/*OUTPUT
+Activated! How can I help You?
+Battery Level is:95 percent.
+Droid Charging...
+The Battery Level is:100 percent.
+Hovering...
+The Battery Level is:80 percent.
+*/
